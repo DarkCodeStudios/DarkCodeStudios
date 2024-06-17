@@ -15,7 +15,7 @@
 <div align="center">
   <a href="https://github.com/DarkCodeStudios">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DarkCodeStudios&show_icons=true&theme=radical"/>
- <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkCodeStudios&layout=compact"/> -->
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkCodeStudios&layout=compact"/>
 </div>
 <div> 
   <h1>Social</h1>
