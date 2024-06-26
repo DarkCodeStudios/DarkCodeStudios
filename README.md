@@ -1,11 +1,12 @@
 ## Hi there 
+```txt
   _____             _     _____          _       _____ _             _ _             _______                   
  |  __ \           | |   / ____|        | |     / ____| |           | (_)           |__   __|                  
  | |  | | __ _ _ __| | _| |     ___   __| | ___| (___ | |_ _   _  __| |_  ___  ___     | | ___  __ _ _ __ ___  
  | |  | |/ _` | '__| |/ / |    / _ \ / _` |/ _ \\___ \| __| | | |/ _` | |/ _ \/ __|    | |/ _ \/ _` | '_ ` _ \ 
  | |__| | (_| | |  |   <| |___| (_) | (_| |  __/____) | |_| |_| | (_| | | (_) \__ \    | |  __/ (_| | | | | | |
  |_____/ \__,_|_|  |_|\_\\_____\___/ \__,_|\___|_____/ \__|\__,_|\__,_|_|\___/|___/    |_|\___|\__,_|_| |_| |_|
-                                                                                                               
+ ```                                                                                                              
                                                                                                                
 **The programming languages we use**
 <div style="display: inline_block"><br>
@@ -19,7 +20,7 @@
   <img align="center" alt="" height="30" width="30" src="https://user-images.githubusercontent.com/99184393/177784603-d69e9d02-721a-4bce-b9b3-949165d2edeb.png">
 </div>
  <br />
- <h1>Stats</h1>
+ <h1>GitHub Stats</h1>
 <div align="center">
   <a href="https://github.com/DarkCodeStudios">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DarkCodeStudios&show_icons=true&theme=radical"/>
@@ -33,5 +34,6 @@
   
 </div>
  <hr />
-  
+## Project 2024/2025
+
 <p align="center">DarkCodeStudios</p>
