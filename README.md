@@ -33,7 +33,30 @@
   <a href = "mailto:darkoshelp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
+<h1>Projects 2024/2026</h1>
+
+ ```
+  _____             _     ____   _____ 
+ |  __ \           | |   / __ \ / ____|
+ | |  | | __ _ _ __| | _| |  | | (___  
+ | |  | |/ _` | '__| |/ / |  | |\___ \ 
+ | |__| | (_| | |  |   <| |__| |____) |
+ |_____/ \__,_|_|  |_|\_\\____/|_____/ 
+ ```
+**DarkOS**
+e un sistema operativo web, realmente funzionate con kernel e cloud.
+
+ ```
+  _____             _     ____   _____ 
+ |  __ \           | |   / __ \ / ____|
+ | |  | | __ _ _ __| | _| |  | | (___  
+ | |  | |/ _` | '__| |/ / |  | |\___ \ 
+ | |__| | (_| | |  |   <| |__| |____) |
+ |_____/ \__,_|_|  |_|\_\\____/|_____/ 
+ ```
+**DarkOS**
+e un sistema operativo web, realmente funzionate con kernel e cloud.
  <hr />
-## Project 2024/2025
+
 
 <p align="center">DarkCodeStudios</p>
