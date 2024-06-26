@@ -27,11 +27,6 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkCodeStudios&layout=compact"/>
 </div>
 <div> 
-  <h1>Social</h1>
- <a href="https://www.youtube.com/@DARKKCODE" target="_blank"><img src="https://img.shields.io/badge/YouTube-E4405F?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
-</a>
-  <a href = "mailto:darkoshelp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
 </div>
 <h1>Projects 2024/2026</h1>
 
@@ -44,18 +39,24 @@
  |_____/ \__,_|_|  |_|\_\\____/|_____/ 
  ```
 **DarkOS**
-e un sistema operativo web, realmente funzionate con kernel e cloud.
+ and a web operating system, it really works with kernel and cloud.
 
  ```
-  _____             _     ____   _____ 
- |  __ \           | |   / __ \ / ____|
- | |  | | __ _ _ __| | _| |  | | (___  
- | |  | |/ _` | '__| |/ / |  | |\___ \ 
- | |__| | (_| | |  |   <| |__| |____) |
- |_____/ \__,_|_|  |_|\_\\____/|_____/ 
+   _____             _     ____   _____    _____                          
+ |  __ \           | |   / __ \ / ____|  / ____|                         
+ | |  | | __ _ _ __| | _| |  | | (___   | (___   ___ _ ____   _____ _ __ 
+ | |  | |/ _` | '__| |/ / |  | |\___ \   \___ \ / _ \ '__\ \ / / _ \ '__|
+ | |__| | (_| | |  |   <| |__| |____) |  ____) |  __/ |   \ V /  __/ |   
+ |_____/ \__,_|_|  |_|\_\\____/|_____/  |_____/ \___|_|    \_/ \___|_|   
+                                                                       
  ```
-**DarkOS**
-e un sistema operativo web, realmente funzionate con kernel e cloud.
+**DarkOS Server**
+it is an HTTP server that acts as both a web server and a redirect.
+ <h1>Social</h1>
+ <a href="https://www.youtube.com/@DARKKCODE" target="_blank"><img src="https://img.shields.io/badge/YouTube-E4405F?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
+</a>
+  <a href = "mailto:darkoshelp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
  <hr />
 
 
