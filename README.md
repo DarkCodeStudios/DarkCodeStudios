@@ -22,6 +22,10 @@
 
 </div>
  <br />
+ <h1>TryHackMy stats</h1>
+ 
+ <img src="https://tryhackme-badges.s3.amazonaws.com/Nexunity.png" alt="TryHackMe">
+
  <h1>GitHub Stats</h1>
 <div align="center">
   <a href="https://github.com/DarkCodeStudios">
