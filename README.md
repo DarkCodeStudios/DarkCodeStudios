@@ -23,7 +23,7 @@
 </div>
  <br />
  <h1>TryHackMy stats</h1>
- 
+ <p>The stats doesn't work. work in progress...</p>
  <img src="https://tryhackme-badges.s3.amazonaws.com/Nexunity.png" alt="TryHackMe">
 
  <h1>GitHub Stats</h1>
