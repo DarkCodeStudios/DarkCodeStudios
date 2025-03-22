@@ -19,6 +19,8 @@
   <img align="center" alt="css" height="30" width="30" src="https://user-images.githubusercontent.com/99184393/201854074-917b3994-ea11-447a-86f9-d7a9e4969f0c.png">
   <img align="center" alt="" height="30" width="30" src="https://user-images.githubusercontent.com/99184393/177784603-d69e9d02-721a-4bce-b9b3-949165d2edeb.png">
   <img align="center" alt="" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"/>
+  <img align="center" alt="" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql"/>
+  <img align="center" alt="" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache"/>
 
 </div>
  <br />
